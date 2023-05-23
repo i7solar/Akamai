@@ -1,15 +1,15 @@
 # Akamai 1.75 Generator 🤖
 
 ## Introduction
-Akamai 1.75 is a robust and high-performance tool, developed with Go, dedicated to generating Akamai cookies. Akamai serves as a comprehensive and specialized bot protection system that fortifies an array of websites against various threats. Throughout its tenure, this API has effectively catered to more than five million requests, highlighting its reliability and proficiency. This generator will only work on Akamai 1.7X (legacy) websites.
+This is a robust and high-performance tool, developed with Go, dedicated to generating Akamai cookies. Akamai serves as a comprehensive and specialized bot protection system that fortifies an array of websites against various threats. Throughout its tenure, this API has effectively catered to more than five million requests, highlighting its reliability and proficiency. This generator will only work on Akamai 1.7X (legacy) websites.
 
 ## Acknowledgements
-This project signifies my first venture into the dynamic realm of Software Engineering. Thank you to Levi for helping with business-logic/configuring AWS, Kalek for helping with devices, Kiwi for Go & Akamai questions, and others for their invaluable contributions and continuous support.
+This project signifies my first venture into the dynamic realm of Software Engineering. The code quality might show that, however I've learned how to write cleaner, and more optimal code as the years have went by. It's extremely humbling to see how far one can come. Thank you to Levi for helping with business-logic/configuring AWS, Kalek for helping with devices, Kiwi for Go & Akamai questions, and others for their invaluable contributions and continuous support.
 
 ## Project Origin
 This endeavor was kick-started two years ago, with a primary objective to devise stable Akamai cookies for SolarSystems Software. This software was an e-commerce bot engineered to streamline and automate the buying process, thereby providing a robust solution for retail arbitrage.
 
-## Akamai Bot Manager
+## What is Akamai Bot Manager?
 Akamai Bot Manager is an integral component of the Akamai Intelligent Edge Platform, offering a comprehensive solution for managing bots' impact on websites and mobile applications. Equipped with an array of tools, the Bot Manager efficiently distinguishes between beneficial bots, malicious bots, and human users, thereby facilitating optimal website performance and user experience.
 
 ## Technical Specifications
@@ -35,3 +35,6 @@ go run main.go
 
 ## Contributing
 We encourage developers to contribute and help us improve this project's effectiveness. Feel free to open issues, suggest changes, and make the project more beneficial for everyone.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
